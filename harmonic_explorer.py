@@ -108,7 +108,7 @@ if __name__ == "__main__":
         sim.positions[:, 1],
         s=0.5,
         c='white',
-        alpha=0.8
+        alpha=1.0
     )
 
     def animate(frame):
